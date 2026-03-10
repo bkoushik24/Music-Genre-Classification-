@@ -37,7 +37,6 @@ The model predicts genres such as:
 - NumPy  
 - Matplotlib  
 - Scikit-learn  
-- Streamlit (Web Interface)
 
 ---
 
